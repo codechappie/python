@@ -24,6 +24,7 @@ En este curso aprenderás:
 ## Índice
 
 **Módulo 0: Antes de iniciar con Python**
+
 - Que demonios es Python
 - Para que sirve Python
 - Installar Python
